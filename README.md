@@ -5,9 +5,12 @@ My name is Salman and I am a Computer Science student!
 
 ### :briefcase: Credentials
 - Experience:
-  - Mentored for 3 months by [Mukund Iyengar](https://faculty.stevens.edu/miyengar) Director of Launchpad
-  - Self-Taught Game Developer (2 Years) and Front-End Web Developer (1 Year)
-  - You can view a few of my projects here on my GitHub page!
+  - Section Leader at Stanford (May–Jun 2024)  
+    Taught CS106A (Python) to 1600+ students and mentored beginners.
+  - MLT Fellow (2024–Present)  
+    Selected for 18-month leadership program for top tech roles.
+  - ColorStack Member (2024–Present)  
+    Active member in a national CS community for Black/Latinx students.
 -----
 
 # :round_pushpin: What Am I Doing?
