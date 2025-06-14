@@ -17,7 +17,7 @@ My name is Salman and I am a Computer Science student!
 - :clipboard: Currently I am:
   - Self-teaching AI / Machine Learning, System Dev
   - Grinding LeetCode
-  - Participating in CodePath PIT course
+  - Participating in CodePath TiP & iOS Development course
 -----
 
 # Tech Stack
