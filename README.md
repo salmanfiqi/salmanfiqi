@@ -16,6 +16,7 @@ My name is Salman and I am a Computer Science student!
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
   - Self-teaching AI / Machine Learning, System Dev
+  - Learning databases by building a SQLite clone in C
   - Grinding LeetCode
   - Participating in CodePath TiP & iOS Development course
 -----
