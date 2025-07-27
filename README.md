@@ -15,6 +15,7 @@ My name is Salman and I am a Computer Science student!
 
 # :round_pushpin: What Am I Doing?
 - :clipboard: Currently I am:
+  - Building an AI-powered 10-K / 10-Q SEC filings parser for investor insights
   - Self-teaching AI / Machine Learning, System Dev
   - Learning databases by building a SQLite clone in C
   - Grinding LeetCode
