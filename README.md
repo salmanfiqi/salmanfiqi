@@ -1,2 +1,1 @@
-### Salman Fiqi
-Computer Science student
+backend dev
